@@ -1,5 +1,5 @@
 ## *Hello ⚡*<br/>
-I'm Arnab Mallick, Backend Engineer and Cloud Architect based out of India.
+I'm Arnab Mallick, a Backend Engineer and Cloud Architect based in India.
 
 Here, I document my personal projects, concept implementations, and contributions to improving open-source software while fostering a community spirit.
 
