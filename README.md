@@ -1,10 +1,10 @@
 ## *Hello ⚡*<br/>
 
-I'm Arnab Mallick, a Distributed Systems Researcher and IoT Architect from India.
+I'm Arnab Mallick, a Distributed Computing & Algorithm Researcher from India.
 
-Here, I share advanced system simulations, multi-agent protocol experiments, and real-world IoT deployments—from national-scale water infrastructure to open-source toolkits—focused on resilient engineering, deep empirical validation, and building future-ready platforms.
+Here, I share the system, proofs(TLA+, COQ & LEAN4), and protocols.
 
-Every robust distributed system blends rigorous research, hands-on design, and collaborative improvement, evolving through dynamic user communities and practical field challenges.
+Every robust distributed algorithm blends rigorous research, hands-on design, and collaborative improvement, evolving through dynamic user communities and practical field challenges.
 
 - **LinkedIn**: [@Arnab](https://www.linkedin.com/in/arnab1mallick/)
 - **Thoughts**: [Writings and explorations](https://arnab-m1.github.io/blog)
